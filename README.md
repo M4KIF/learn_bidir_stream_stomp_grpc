@@ -1,2 +1,2 @@
-# learn_websockets
-Learning how websockets work but with a very walk-around way of thinking.
+# A set of apps
+Which is meant to give some headroom for engineering practice etc.
